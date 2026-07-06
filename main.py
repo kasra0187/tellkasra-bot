@@ -4,7 +4,7 @@ from telegram.ext import (
 )
 import os
 
-TOKEN = "توکن_جدید_ربات_را_اینجا_بگذار"
+TOKEN = "8916955712:AAGqf2OVPnbIY_f76dg2W0ETZEfRcJWDx4g"
 CHANNEL = "@todaywaslike"
 
 pending = {}
